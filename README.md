@@ -1,8 +1,7 @@
-### Opa gente! 👋
+### Oops guys! 👋
 
-
-- 🔭 Atualmente sou um profissional com Habilitação Técnica em Desenvolvimento de Sistemas pela Etec Parque Belém.
-- 🌱 As linguagens e Frameworks que estou aprendendo e desenvolvendo são: HTML, CSS, JavaScript, React, Angular, Node.js, TailWindCSS, Phyton, PHP e Rails.
-- 👯 Hoje procuro um emprego para conseguir aprimorar minhas habilidades e desenvolver meu trabalho.
-- 💬 Interaja comigo! Amo fazer amizades e conversar sobre programação.
-- 📫 Acesse meu instagram para falar comigo: @lunardellodev
+- 🔭 I'm currently a professional with a Technical Qualification in "Systems Development" from Etec Parque Belém.
+- 🌱 The languages and frameworks I'm learning and developing are: HTML, CSS, JavaScript, React, Angular, Node.js, TailWindCSS, Phyton, PHP and Rails.
+- 👯 Today I'm looking for a job to improve my skills and develop my work.
+- 💬 Interact with me! I love making friends and talking about programming.
+- 📫 If you want to talk with me, go to my Instagram: @lunardellodev
