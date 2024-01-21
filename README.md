@@ -4,12 +4,12 @@
 - 🔭 I'm currently a professional with a Technical Qualification in "Systems Development" from Etec Parque Belém.
 - 🌱 The languages and frameworks I'm learning and developing are: HTML, CSS, JavaScript, React, Angular, Node.js, TailWindCSS, Python, PHP and Rails.
 - 👯 Today I'm looking for a job to improve my skills and develop my work.
-- 💬 Interact with me! I love making friends and talking about programming.
+- 💬 Interact with me! I love talking about programming.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 Atualmente sou um profissional com Habilitação Técnica em "Desenvolvimento de Sistemas" pela Etec Parque Belém.
 - 🌱 As linguagens e frameworks que estou aprendendo e desenvolvendo são: HTML, CSS, JavaScript, React, Angular, Node.js, TailWindCSS, Python, PHP e Rails.
 - 👯 Hoje estou procurando um emprego para aprimorar minhas habilidades e desenvolver meu trabalho.
-- 💬 Interaja comigo! Adoro fazer amigos e conversar sobre programação.
+- 💬 Interaja comigo! Adoro conversar sobre programação.
 
 ## Languagens and Frameworks I'm Learning / Linguagens e Frameworks que estou aprendendo:
 
