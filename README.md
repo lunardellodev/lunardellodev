@@ -4,7 +4,7 @@ Sou um desenvolvedor em formação apaixonado por criar soluções e conectar te
 
 🎓 Formação: Atualmente cursando Análise e Desenvolvimento de Sistemas na UAM (Universidade Anhembi Morumbi).
 
-🏛️ Parceria Acadêmica: Minha graduação é integrada oficialmente com a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" alt="Oracle logo" /> <img width="15" />Academy, onde aprofundo conhecimentos corporativos.
+🏛️ Parceria Acadêmica: Minha graduação é integrada oficialmente com a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" /> <img width="7" />Academy, onde aprofundo conhecimentos corporativos.
 
 💾 Background: Técnico em Desenvolvimento de Sistemas pela ETEC Parque Belém.
 
