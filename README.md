@@ -4,7 +4,7 @@ Sou um desenvolvedor em formação apaixonado por criar soluções e conectar te
 
 🎓 Formação: Atualmente cursando Análise e Desenvolvimento de Sistemas na UAM (Universidade Anhembi Morumbi).
 
-🏛️ Parceria Acadêmica: Minha graduação é integrada oficialmente com a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" /> <img width="7" />Academy, onde aprofundo conhecimentos corporativos.
+🏛️ Parceria Acadêmica: Minha graduação é integrada oficialmente com a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" /> <img width="3" />Academy, onde aprofundo conhecimentos corporativos.
 
 💾 Background: Técnico em Desenvolvimento de Sistemas pela ETEC Parque Belém.
 
@@ -35,9 +35,6 @@ Aqui estão as tecnologias que utilizo e estudo atualmente:
 Outras bases que utilizo:
 
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> </div>
-
-📊 GitHub Stats
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igor-lunardello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-lunardello&layout=compact&langs_count=6&theme=dracula&hide=html,css,ruby"/> </div>
 
 📫 Contatos
 <div align="left"> <a href="https://www.linkedin.com/in/igor-lunardello-246a3a2a3/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:igorlunardellowork@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/lunardellodev/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div>
