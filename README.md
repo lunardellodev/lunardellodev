@@ -8,8 +8,8 @@
 
 ---
 
-### 💻 Tech Stack & Estudos
-Aqui estão as tecnologias que utilizo e estudo atualmente:
+### 💻 Tech Stack & Studies
+Here are the technologies that I currently use and study:
 
 <div align="left">
   <!-- JAVA -->
@@ -31,7 +31,7 @@ Aqui estão as tecnologias que utilizo e estudo atualmente:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" title="Power BI" />
 </div>
 
-Outras bases que utilizo:
+Other bases that I employ:
 
 <div align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <img width="10" /> 
@@ -41,7 +41,7 @@ Outras bases que utilizo:
 
 ---
 
-### 📈 Minhas Atividades e Estatísticas no GitHub
+### 📈 My Activities and Statistics on GitHub
 
 <div align="center">
   <a href="https://github.com/lunardellodev">
@@ -54,7 +54,7 @@ Outras bases que utilizo:
 
 ---
 
-### 📫 Contatos
+### 📫 Contacts
 <div align="left"> 
   <a href="https://www.linkedin.com/in/igor-lunardello-246a3a2a3/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
