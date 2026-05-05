@@ -4,8 +4,6 @@
 
 💾 Background: Technical Specialist in Systems Development from ETEC Parque Belém.
 
-🎯 
-
 💻 Tech Stack & Estudos
 Aqui estão as tecnologias que utilizo e estudo atualmente:
 
