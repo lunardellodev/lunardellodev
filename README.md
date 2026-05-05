@@ -18,20 +18,17 @@ Aqui estão as tecnologias que utilizo e estudo atualmente:
   <!-- PYTHON -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" /> <img width="12" />
 
-  <!-- REACT NATIVE (Utiliza o ícone base do React) -->
+  <!-- REACT NATIVE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" title="React Native" /> <img width="12" />
 
   <!-- SQL SERVER -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" title="SQL Server" /> <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="SQL Server logo" title="SQL Server" /> <img width="12" />
 
-  <!-- MYSQL / GERAL SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" title="MySQL / SQL" /> <img width="12" />
-
-  <!-- GIT -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" title="Git" /> <img width="12" />
+  <!-- MYSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL logo" title="MySQL / SQL" /> <img width="12" />
 
   <!-- POWER BI -->
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black" height="40" alt="Power BI badge" title="Power BI" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI logo" title="Power BI" />
 </div>
 
 Outras bases que utilizo:
