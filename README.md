@@ -2,9 +2,9 @@
 
 🏛️ **Academic Partnership:** My degree is officially integrated with the Oracle Academy, where I expand my corporate knowledge.
 
-💾 **Background:** Technical Specialist in Systems Development from ETEC Parque Belém.
+💾 **Background:** Technical Specialist in Systems Development from ETEC Parque Belém. Intern at CET (Companhia de Engenharia de Tráfego).
 
-📊 **Data & Business Intelligence:** Solid interest in data visualization, acting in the creation and troubleshooting of dynamic dashboards with Power BI.
+📊 **Data & Business Intelligence:** Solid interest in data visualization, acting in the creation and troubleshooting of dynamic dashboards with Power BI and SQL.
 
 ---
 
@@ -13,30 +13,28 @@ Aqui estão as tecnologias que utilizo e estudo atualmente:
 
 <div align="left">
   <!-- JAVA -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java" /> <img width="12" />
-
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" title="Java" /> <img width="12" />
+  
   <!-- PYTHON -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" /> <img width="12" />
-
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" title="Python" /> <img width="12" />
+  
   <!-- REACT NATIVE -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" title="React Native" /> <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native logo" title="React Native" /> <img width="12" />
 
   <!-- SQL SERVER -->
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="SQL Server logo" title="SQL Server" /> <img width="12" />
 
   <!-- MYSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL logo" title="MySQL / SQL" /> <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" title="MySQL" /> <img width="12" />
 
   <!-- POWER BI -->
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI logo" title="Power BI" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" title="Power BI" />
 </div>
 
 Outras bases que utilizo:
 
 <div align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <img width="10" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <img width="10" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="35" alt="HTML, CSS, JS logos" />
 </div>
 
 ---
@@ -44,9 +42,13 @@ Outras bases que utilizo:
 ### 📈 Minhas Atividades e Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lunardellodev&show_icons=true&theme=radical&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunardellodev&layout=compact&theme=radical&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lunardellodev&show_icons=true&theme=radical&hide_border=false" height="170" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunardellodev&layout=compact&theme=radical&hide_border=false" height="170" alt="Linguagens mais utilizadas" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunardellodev&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
