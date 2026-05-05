@@ -2,9 +2,9 @@
 
 🏛️ **Academic Partnership:** My degree is officially integrated with the Oracle Academy, where I expand my corporate knowledge.
 
-💾 **Background:** Technical Specialist in Systems Development from ETEC Parque Belém. Intern at CET (Companhia de Engenharia de Tráfego).
+💾 **Background:** Technical Specialist in Systems Development from ETEC Parque Belém. Intern at Companhia de Engenharia de Tráfego (CET).
 
-📊 **Data & Business Intelligence:** Solid interest in data visualization, acting in the creation and troubleshooting of dynamic dashboards with Power BI and SQL.
+📊 **Data & Business Intelligence:** Interest in data visualization and developing/troubleshooting dynamic dashboards in Power BI and SQL.
 
 ---
 
@@ -12,29 +12,16 @@
 Aqui estão as tecnologias que utilizo e estudo atualmente:
 
 <div align="left">
-  <!-- JAVA -->
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" title="Java" /> <img width="12" />
-  
-  <!-- PYTHON -->
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" title="Python" /> <img width="12" />
-  
-  <!-- REACT NATIVE -->
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native logo" title="React Native" /> <img width="12" />
-
-  <!-- SQL SERVER -->
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="SQL Server logo" title="SQL Server" /> <img width="12" />
-
-  <!-- MYSQL -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" title="MySQL" /> <img width="12" />
-
-  <!-- POWER BI -->
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" title="Power BI" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,react,mssql,mysql,powerbi" />
+  </a>
 </div>
 
-Outras bases que utilizo:
-
-<div align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="35" alt="HTML, CSS, JS logos" />
+**Outras bases que utilizo:**
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
 </div>
 
 ---
@@ -42,13 +29,10 @@ Outras bases que utilizo:
 ### 📈 Minhas Atividades e Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lunardellodev&show_icons=true&theme=radical&hide_border=false" height="170" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunardellodev&layout=compact&theme=radical&hide_border=false" height="170" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lunardellodev&show_icons=true&theme=dark&hide_border=false" alt="Estatísticas do GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunardellodev&layout=compact&theme=dark&hide_border=false" alt="Linguagens mais utilizadas" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunardellodev&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
