@@ -1,10 +1,10 @@
-🎓 Formação: Atualmente cursando Análise e Desenvolvimento de Sistemas na UAM (Universidade Anhembi Morumbi).
+🎓 Education: Currently pursuing a degree in Systems Analysis and Development at UAM (Universidade Anhembi Morumbi).
 
-🏛️ Parceria Acadêmica: Minha graduação é integrada oficialmente com a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" /> <img width="3" />Academy, onde aprofundo conhecimentos corporativos.
+🏛️ Academic Partnership: My degree is officially integrated with the Oracle Academy, where I expand my corporate knowledge.
 
-💾 Background: Técnico em Desenvolvimento de Sistemas pela ETEC Parque Belém.
+💾 Background: Technical Specialist in Systems Development from ETEC Parque Belém.
 
-🎯 Foco de Estudos: Desenvolvimento Backend (Java/PHP/Phyton), Mobile (React Native) e Banco de Dados Relacional.
+🎯 
 
 💻 Tech Stack & Estudos
 Aqui estão as tecnologias que utilizo e estudo atualmente:
